@@ -1,5 +1,5 @@
 # DjangoBasicAuth  
-## This is a very basic Django project making use of Django's builtin authentication and bootstrap-5
+## This is a very basic Django App making use of Django's builtin authentication and bootstrap-5
 
 You can `start a project` and clone the accounts app very simply. Just Copy and paste the accounts directory in your project  
 
