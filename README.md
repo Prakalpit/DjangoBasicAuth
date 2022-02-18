@@ -22,7 +22,7 @@ INSTALLED_APPS = [
 ### After that 
 
 ```python
-# add these at very bottom
+# add these at very bottom of settings.py
 LOGIN_REDIRECT_URL = '/'
 LOGOUT_REDIRECT_URL = '/'
 ```
