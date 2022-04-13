@@ -5,7 +5,7 @@ You can `start a project` and clone the accounts app very simply. Just Copy and 
 
 #### Also Install the req.txt mean while 
 ```
-pip install req.txt
+pip install -r req.txt
 ```
 
 
